@@ -1,2 +1,2 @@
-# CYOA-for-Intensives
-Very Very Basic CYOA
+# web-cyoa
+HTML+CSS_JS Adventure Game
